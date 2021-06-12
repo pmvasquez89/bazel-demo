@@ -13,6 +13,7 @@ void print_localtime() {
 
 int main(int argc, char** argv) {
   //Just a simple change in the file, to test git tool
+  //Second change, for git
   std::string who = "world";
   if (argc > 1) {
     who = argv[1];
