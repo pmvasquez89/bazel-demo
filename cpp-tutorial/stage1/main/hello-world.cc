@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
   //Just a simple change in the file, to test git tool
   //Second change, for git
   //Third change, for git
-  int a = 4;  //just a little code change to try pull request git
+  int a = 6;  //just a little code change to try pull request git
   std::string who = "world";
   if (argc > 1) {
     who = argv[1];
